@@ -51,7 +51,7 @@ margin: 5px;
 @media screen and (max-width:786px){
     body{overflow-x: hidden;}
     .nav-links{
-        transform: translate(100%);
+        transform: translateX(100%);
         position: absolute;
         right: 0px;
         height: 92vh;
@@ -64,8 +64,8 @@ margin: 5px;
         width: 50%;
 
     }
-    .nav-links li{
-        opacity: 0;
+    
+        
     }
     .burger {
         display: block;
