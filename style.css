@@ -64,8 +64,8 @@ margin: 5px;
         width: 50%;
 
     }
-    
-        
+    .nav-links li{
+        opacity: 100;
     }
     .burger {
         display: block;
