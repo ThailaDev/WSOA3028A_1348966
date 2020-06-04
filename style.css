@@ -72,5 +72,5 @@ margin: 5px;
     }
 }
 .nav-active{
-    transform: translate(0%);
+    transform: translateX(0%);
 }
