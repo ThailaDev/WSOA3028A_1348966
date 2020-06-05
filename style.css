@@ -71,6 +71,6 @@ margin: 5px;
         display: block;
     }
 }
-.nav-active{
+.nav-activate{
     transform: translateX(0%);
 }
