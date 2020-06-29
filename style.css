@@ -409,6 +409,31 @@ margin: 5px;
     font-style: initial;
     white-space: inherit;
 }
+.joke{
+    color: #010101;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: initial;
+    white-space: inherit; 
+    font-size: 15px;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+.Piccipic
+{
+   align-items: center; 
+   align-content: center;
+}
+.Piccipic p
+{
+    color: #010101;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: initial;
+    white-space: inherit;
+}
 @media screen and (max-width:1024px){
     .nav-links{
         width: 80%;
